@@ -46,7 +46,7 @@ geonode-notification==1.1.1
 geonode-user-accounts==1.0.13
 geonode-user-messages==0.1.5
 gisdata==0.5.4
-gsconfig==1.0.6
+-e git+https://github.com/boundlessgeo/gsconfig.git#1.0.6#egg=gsconfig
 gsimporter==1.0.0
 httplib2==0.9.2
 kombu==3.0.35
